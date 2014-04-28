@@ -1,0 +1,6 @@
+{
+	"name": "jenkins-plugins-test-fixture", 
+	"packaging": {
+		"type": "custom_service"
+	}
+}
