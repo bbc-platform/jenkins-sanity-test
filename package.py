@@ -1,0 +1,2 @@
+def package(stub):
+    pass
